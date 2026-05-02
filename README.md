@@ -1,131 +1,36 @@
-# 👋 Hi, I'm Vipul Pandey
+<h1 align="center">Hi 👋, I'm Vipul Pandey</h1>
+<h3 align="center">Data Analyst | SQL | Python | Excel | Power BI</h3>
 
-🎓 B.Sc (Hons.) Mathematics Graduate | University of Delhi (2026)  
-📊 Data Analyst | SQL | Python | Excel | Power BI  
-📍 Delhi, India
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul10b-hash&label=Profile%20views&color=0e75b6&style=flat" alt="vipul10b-hash" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipul10b-hash" alt="vipul10b-hash" /></a> </p>
 
-## 🚀 About Me
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-I am a detail-oriented and analytical individual with a strong interest in data analysis and problem-solving.  
-I enjoy working with data to extract meaningful insights and support data-driven decision making.
+- 🔭 I’m currently working on [Exploratory Data Analysis (Python)](https://github.com/vipul10b-hash/Exploratory-Data-Analysis)
 
-- 📊 Skilled in data cleaning, EDA, and dashboard creation  
-- 📈 Interested in Data Analytics, Business Analysis & Research roles  
-- ⚡ Quick learner with strong attention to detail  
-- 🎯 Actively looking for entry-level opportunities  
+- 🌱 I’m currently learning **Machine Learning, Data Science fundamentals, and NLP (Natural Language Processing)**
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/vipul10b-hash](https://github.com/vipul10b-hash)
 
-## 🔭 I’m currently working on
-- Improving my Data Analytics portfolio  
-- Building real-world dashboards and projects  
+- 💬 Ask me about **Data Analysis, SQL, Excel, Power BI, Python, and basic Machine Learning concepts**
 
----
+- 📫 How to reach me **vipul10b@gmail.com**
 
-## 🌱 I’m currently learning
-- Advanced SQL  
-- Power BI (Advanced Dashboards)  
-- Python for Data Analysis  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qWewa369p9zo_PH7WN1Y57s9rKOyy414/view?usp=drivesdk](https://drive.google.com/file/d/1qWewa369p9zo_PH7WN1Y57s9rKOyy414/view?usp=drivesdk)
 
----
+- ⚡ Fun fact **I enjoy solving problems and analyzing data more than anything else.**
 
-## 💬 Ask me about
-- Data Analysis  
-- SQL Queries  
-- Excel Dashboards  
-- Power BI  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vipul-pandey-data-science-duroid_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipul-pandey-data-science-duroid_app" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-## 🛠️ Skills
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul10b-hash&show_icons=true&locale=en&layout=compact" alt="vipul10b-hash" /></p>
 
-### 📌 Programming & Query
-- Python  
-- SQL  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipul10b-hash&show_icons=true&locale=en" alt="vipul10b-hash" /></p>
 
-### 📊 Data Analysis
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Data Interpretation  
-- KPI Tracking  
-
-### 📈 Visualization Tools
-- Power BI  
-- Tableau  
-- Excel  
-
-### 📚 Libraries
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-
-### ⚙️ Tools
-- Git  
-- VS Code  
-
----
-
-## 📂 Projects
-
-### 📊 HR Analytics Dashboard
-- Built interactive dashboard for employee insights  
-- Used Power BI for visualization  
-
-🔗 https://github.com/vipul10b-hash/PowerBI  
-
----
-
-### 🧾 SQL Data Analysis
-- Used joins, aggregations, filtering  
-- Generated business insights  
-
-🔗 https://github.com/vipul10b-hash/MySQL  
-
----
-
-### 📈 Excel Dashboard
-- Created KPI dashboards  
-- Automated reports  
-
-🔗 https://github.com/vipul10b-hash/MS-Excel  
-
----
-
-### 🐍 Python EDA Project
-- Data cleaning & visualization  
-- Trend analysis using Python  
-
-🔗 https://github.com/vipul10b-hash/Exploratory-Data-Analysis  
-
----
-
-## 📫 How to reach me
-
-📧 Email: vipul10b@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/vipul-pandey-data-science-du  
-
----
-
-## 📊 GitHub Stats
-
-![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipul10b-hash&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipul10b-hash&layout=compact)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vipul10b-hash)
-
----
-
-## ⚡ Fun Fact
-I enjoy turning raw data into meaningful insights 🚀
-
----
-
-⭐ Feel free to explore my repositories and connect!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipul10b-hash&" alt="vipul10b-hash" /></p>
